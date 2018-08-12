@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "WEB 2.0 by Vivek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUPREMECODING/web2.0.git"
+  },
+  "author": "VivekGupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUPREMECODING/web2.0/issues"
+  },
+  "homepage": "https://github.com/SUPREMECODING/web2.0#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
